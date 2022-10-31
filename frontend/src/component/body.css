@@ -1,0 +1,25 @@
+.body1{
+   text-align: center;
+   margin: 1%;
+   background: url("../image/heart.png") no-repeat bottom right;
+    background-size: 50px;
+}
+.small{
+    justify-content: center;
+    height: 70%;
+    width: 70%;
+    background-color: rgb(255, 181, 239);
+}
+.main_img{
+    margin: 10% 0% 5% 50%;
+}
+.back_g{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50%;
+}
+.imgs{
+    margin: 2.5%;
+}

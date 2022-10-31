@@ -1,0 +1,25 @@
+.product{
+    margin: 2% 2%;
+    display: flex;
+}
+.item{
+    margin: 3% 2%;
+}
+.priceP{
+    color: rgb(246, 21, 59);
+}
+.addCbtn{
+    padding: 1% 5%;
+    border-radius: 5%;
+    background-color: rgb(243, 242, 242);
+}
+.addCbtn:hover{
+    background-color: rgb(255, 108, 133);
+}
+.pagebody{
+    display: flex;
+    justify-content: space-between;
+}
+.page1{
+    float:right;
+}

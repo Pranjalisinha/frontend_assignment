@@ -1,0 +1,26 @@
+.navbar{
+  position: fixed;
+  top:0;
+  background-color: white;
+}
+.body{
+  margin-top: 9%;
+  display: flex;
+  background-color: rgb(242, 238, 238);
+}
+.child{
+  width: 50%;
+}
+.bot{
+  background-color: white;
+  margin-left: 5%;
+  display: flex;
+}
+.vl{
+  margin: 20px;
+  border-left: 1px solid rgb(66, 65, 65);
+  height: 60%;
+}
+.youMay{
+  background-color: rgb(235, 233, 233);
+}

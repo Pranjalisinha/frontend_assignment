@@ -1,0 +1,73 @@
+.hi{
+    margin-left: 5%;
+}
+.checked{
+    color: rgb(255, 221, 0);
+}
+.rat{
+    margin-top: -0.7%;
+}
+.pric{
+    color: rgb(232, 6, 6);
+}
+.strike{
+    color: black;
+}
+.radio1{
+    size: 20%;
+    border: none;
+    accent-color: rgba(207, 140, 140, 0.864);
+}
+.radio2{
+    size: 20%;
+    border: none;
+    accent-color: rgba(196, 7, 7, 0.864);
+}
+.radio3{
+    size: 20%;
+    border: none;
+    accent-color: rgba(169, 52, 52, 0.864);
+}
+.radio4{
+    size: 20%;
+    border: none;
+    accent-color: rgba(255, 60, 203, 0.864);
+}
+.btnb{
+    display: flex;
+}
+.btnAdd{
+    margin-top: 1.5%;
+    width: 40%;
+    padding: 1.5% 0%;
+    color: white;
+    background-color: pink;
+    border: none;
+    border-radius: 10px;
+}
+.btnAdd:hover{
+    background-color: rgb(255, 126, 148);
+}
+.boxp{
+    width: 5%;
+    margin-right: 1%;
+    border: 1px solid black;
+    border-radius: 10%;
+}
+.dis{
+    width: 50%;
+    border-bottom: 2px solid black;
+    display: flex;
+}
+.plus{
+    margin-left: 65%;
+}
+.plus1{
+    margin-left: 65%;
+}
+.plus2{
+    margin-left: 68%;
+}
+.plus3{
+    margin-left: 38%;
+}

@@ -1,0 +1,18 @@
+.rev1{
+    display: flex;
+}
+.rev{
+    margin-left: 5%;
+    width: 28%;
+
+}
+.hi1{
+    margin-right: 3%;
+}
+.checked{
+    color: rgb(255, 221, 0);
+}
+.like{
+    display: flex;
+    justify-content: space-between;
+}
